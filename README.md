@@ -26,7 +26,7 @@ Data-driven professional with hands-on experience in healthcare analytics and pr
 ## 💼 Experience
 
 ### 🔹 Product Reliability Engineer  
-**Cyient Ltd (Client: Honeywell)** — *2023 – Present*  
+**Cyient Ltd (Client: Honeywell)** — *2023 – 2025*  
 - Collected and analyzed aftermarket product reliability data from global repair shops and field service reports.  
 - Conducted life data analysis (Weibull), Pareto, MTBF, MTTR, and warranty applicability insights using Power BI.  
 - Built dashboards to monitor top failure categories, causes of damage, and cost of repairs.  
