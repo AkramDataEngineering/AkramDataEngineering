@@ -4,6 +4,8 @@
 📞 **+91 7389221938** | 📧 **akramhussaina320@gmail.com**  
 
 🔗 [LinkedIn](#) | 🔗 [GitHub](#) | 🔗 [Kaggle](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link) || [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username) || [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-username)
+
 
 ---
 
