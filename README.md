@@ -16,7 +16,7 @@ Strong expertise in **RCM analytics, reliability engineering**, and delivering *
 
 ## 🛠 Skills  
 
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)** Pandas, NumPy, Matplotlib, Seaborn  
 - **SQL:** Advanced Querying, ETL, Data Cleaning  
 - **Power BI:** Interactive Dashboards, KPI Reporting, DAX  
 - **Tableau:** Claims Dashboards, Visual Storytelling  
