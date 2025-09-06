@@ -17,7 +17,7 @@ Strong expertise in **RCM analytics, reliability engineering**, and delivering *
 ## 🛠 Skills  
 
 - **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)** Pandas, NumPy, Matplotlib, Seaborn  
-- **[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)** Advanced Querying, ETL, Data Cleaning  
+- **![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)** Advanced Querying, ETL, Data Cleaning  
 - **![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)** Interactive Dashboards, KPI Reporting, DAX  
 - **![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)** Claims Dashboards, Visual Storytelling  
 - **![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-008080?style=for-the-badge&logo=databricks&logoColor=white)** RCM, Claim Denials, HIPAA Compliance  
